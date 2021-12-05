@@ -13,10 +13,8 @@ The Servant of Niris bot collects your username and user ID. The bot also collec
 The Servant of Niris bot requires access to several settings to work properly. 
 <ul>
 <li>Manage Webhooks: Servant uses Discord’s announcement channels to use auto-post, which requires webhooks. Servant of Niris does not manage any other webhook besides its own. 
-<li>Read Text Channels & See Voice Channels: Servant of Niris uses these settings to be able to see the commands you run. 
+<li>Read Messages/View Channels: Servant of Niris uses these settings to be able to see the commands you run. 
 <li>Send Messages: Servant of Niris uses this to be able to respond to commands given. 
-<li>Manage Messages: Servant of Niris uses this explicitly to delete it’s own messages and your last typed message when running a command with the bot. We do not use Servant to remove or purge other messages. 
-<li>Embed Links: When a command has a link, Servant will be able to auto-embed it. 
-<li>Use External Emojis: Some of Servant’s commands have attached emojis, such as with the cat or meme command. 
-<li>Add Reactions: Servant uses reactions heavily for the Subscribe command. Other uses of reactions involve other commands, such as the weekly command. We do not react to any of your messages, only Servant’s. 
+<li>Manage Messages: Servant of Niris uses this explicitly to delete it’s own messages when running a command with the bot. We do not use Servant to remove or purge other messages. 
+<li>Embed Links: When a command has a link, Servant will be able to auto-embed it. This is also needed for embed messages.
 </ul>
